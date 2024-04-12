@@ -1,6 +1,6 @@
 # Business Intelligence SQL Portfolio
 
-Welcome to my In Progress Business Intelligence SQL Portfolio! This repository showcases a selection of SQL scripts and analyses that I've crafted to solve real-world business problems. It's designed to highlight my ability to harness the power of SQL for insightful data analysis, reporting, and decision support within a business context.
+Welcome to my Business Intelligence SQL Portfolio! This repository showcases a selection of SQL scripts and analyses that I've crafted to solve real-world business problems. It's designed to highlight my ability to harness the power of SQL for insightful data analysis, reporting, and decision support within a business context.
 
 ## What's Inside
 
