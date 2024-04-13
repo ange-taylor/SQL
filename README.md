@@ -14,8 +14,8 @@ Welcome to my Business Intelligence SQL Portfolio! This repository showcases a s
 ## Tools & Technologies
 
 - **Databases**: Proficiency in RDBMS such as PostgreSQL, MySQL, SQL Server, tailored for business analytics.
-- **Business Intelligence Tools**: Experience with SQL in BI platforms like AddMaple or similar.
-- **Data Visualization**: Incorporating SQL with data visualization techniques to present clear, actionable insights using tools such as AddMaple.
+- **Business Intelligence Tools**: Experience with SQL in BI platforms.
+- **Data Visualization**: Incorporating SQL with data visualization techniques to present clear, actionable insights.
 
 ## How to Navigate
 
